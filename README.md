@@ -83,23 +83,23 @@ data generator.)*
 
 **Storage days & humidity vs loss**
 
-![Storage and Humidity](images/scatter_storage_humidity.png)
+![Storage and Humidity](scatter_storage_humidity.png)
 
 **Correlation heatmap**
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 **Average loss by crop type**
 
-![Loss by Crop](images/loss_by_crop.png)
+![Loss by Crop](loss_by_crop.png)
 
 **Predicted vs actual loss (Random Forest)**
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 **Feature importance**
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## Key insights
 
